@@ -21,7 +21,7 @@
  ##
 
  
-[![edlainepaula](https://github-readme-stats.vercel.app/api/top-langs/?username=edlainepaula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![edlainepaula](https://github-readme-stats.vercel.app/api/top-langs/?username=edlainepaula&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
  ##
  
 <div> 
