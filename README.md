@@ -8,7 +8,7 @@
 ❤️ Desenvolvimento de sites com HTML, CSS e JS!
 
 
-📓 Estudando Frameworks, linguagens C e lógica de programação.
+📓 Estudando Frameworks,.NET  lógica de programação.
 
 
 <div style="display: inline_block"><br>
